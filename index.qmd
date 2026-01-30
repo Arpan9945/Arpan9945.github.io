@@ -1,5 +1,5 @@
 ---
-title: "Arpan9945.github.io"
+title: "Arpan Acharya"
 ---
 Hi, This is Arpan. Just trying out Quarto website.
 
