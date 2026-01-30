@@ -3,17 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "Arpan9945.github.io"
+  title: "Arpan"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - favourites.qmd
+      - href: blog.qmd      # <--- Add this line
+        text: Blog
 
 format:
   html:
     theme:
-      - cosmo
+      - sandstone
       - brand
     css: styles.css
     toc: true
